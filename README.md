@@ -4,7 +4,7 @@
 ![Multi-Modal](https://img.shields.io/badge/Task-Multi--Modal-red)
 ![MotionBench](https://img.shields.io/badge/Dataset-MotionBench-blue)  
 
-<font size=7><div align='center' > [[🍎 Project Page](https://motion-bench.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2406.08035)] [[📊 Dataset](https://huggingface.co/datasets/THUDM/MotionBench)][[🏆 Leaderboard](https://motion-bench.github.io/#leaderboard)][[🏆 Huggingface Leaderboard](https://huggingface.co/spaces/THUDM/MotionBench)]  </div></font>
+<font size=7><div align='center' > [[🍎 Project Page](https://motion-bench.github.io/)] [[📖 arXiv Paper](https://arxiv.org/abs/2501.02955)] [[📊 Dataset](https://huggingface.co/datasets/THUDM/MotionBench)][[🏆 Leaderboard](https://motion-bench.github.io/#leaderboard)][[🏆 Huggingface Leaderboard](https://huggingface.co/spaces/THUDM/MotionBench)]  </div></font>
 
 <p align="center">
     <img src="./docs/image1.png" width="96%" height="50%">
@@ -129,7 +129,7 @@ If you find our work helpful for your research, please consider citing our work.
       title={MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models}, 
       author={Wenyi Hong and Yean Cheng and Zhuoyi Yang and Weihan Wang and Lefan Wang and Xiaotao Gu and Shiyu Huang and Yuxiao Dong and Jie Tang},
       year={2024},
-      eprint={TBD.TBD},
+      eprint={2501.02955},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }

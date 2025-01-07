@@ -1,1 +1,1 @@
-Download `video_info.meta.jsonl` from [Huggingface](https://huggingface.co/datasets/THUDM/LVBench) and put it here.
+Download `video_info.meta.jsonl` from [Huggingface](https://huggingface.co/datasets/THUDM/MotionBench) and put it here.
