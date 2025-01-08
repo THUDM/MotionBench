@@ -96,7 +96,7 @@ cd scripts
 python test_acc.py
 ```
 
-After the execution, you will get an evaluation results file `result.json` in the `scripts` directory. You can submit the
+After the execution, you will get an evaluation results file `random_answers.json` in the `scripts` directory. You can submit the
 results to the [leaderboard](https://huggingface.co/spaces/THUDM/MotionBench).
 
 ## 📈 Results
