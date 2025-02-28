@@ -17,7 +17,7 @@ MotionBench aims to guide and motivate the development of more capable video und
 
 ## 🔥 News
 
-* **`2025.01.06`** 🎉🎉🎉 MotionBench is accepted by CVPR 2025!!
+* **`2025.02.27`** 🎉🎉🎉 MotionBench is accepted by CVPR 2025!!
 * **`2025.01.06`** 🌟 We released MotionBench, a new benchmark for fine-grained motion comprehension!
 
 ## Introduction
