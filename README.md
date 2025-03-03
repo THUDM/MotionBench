@@ -128,7 +128,7 @@ If you find our work helpful for your research, please consider citing our work.
 ```bibtex
 @misc{hong2024motionbench,
       title={MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models}, 
-      author={Wenyi Hong and Yean Cheng and Zhuoyi Yang and Weihan Wang and Lefan Wang and Xiaotao Gu and Shiyu Huang and Yuxiao Dong and Jie Tang},
+      author={Hong, Wenyi* and Cheng, Yean* and Yang, Zhuoyi* and Wang, Weihan and Wang, Lefan and Gu, Xiaotao and Huang, Shiyu and Dong, Yuxiao and Tang, Jie},
       year={2024},
       eprint={2501.02955},
       archivePrefix={arXiv},
